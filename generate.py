@@ -2,7 +2,7 @@
 """Generate output.md from a public Google Sheets CSV export.
 
 Usage:
-  python generate.py --url "<CSV_EXPORT_URL>" --out output.md
+    python generate.py --url "<CSV_EXPORT_URL>" --out small_plates.md
 
 The script accepts the CSV URL via `--url` or the environment variable `CSV_URL`.
 """
@@ -168,7 +168,7 @@ def render_markdown(rows: List[Row]) -> str:
     return "\n".join(out_lines)
 
 
-def generate(csv_url: str, out_path: str = "output.md") -> None:
+def generate(csv_url: str, out_path: str = "small_plates.md") -> None:
     csv_text = fetch_csv(csv_url)
     rows = parse_rows(csv_text)
     md = render_markdown(rows)
@@ -179,7 +179,7 @@ def generate(csv_url: str, out_path: str = "output.md") -> None:
 def main(argv: List[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--url", help="Public CSV export URL for the Google Sheet", default=os.getenv("CSV_URL"))
-    parser.add_argument("--out", help="Output Markdown path", default="output.md")
+    parser.add_argument("--out", help="Output Markdown path", default="small_plates.md")
     args = parser.parse_args(argv)
     if not args.url:
         print("Error: --url or CSV_URL env var must be provided", file=sys.stderr)

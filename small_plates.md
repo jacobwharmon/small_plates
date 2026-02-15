@@ -1,3 +1,4 @@
+#!/usr/bin/env text
 # Table of Contents
 - [Music](#music)
 
@@ -6,3 +7,4 @@
 
 ### Music Sources
 1) Hymn 220 Lord, I Would Follow Thee
+

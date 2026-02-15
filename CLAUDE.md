@@ -184,7 +184,7 @@ Prefer CSV when possible for simplicity.
 
 /
 ├─ generate.py  
-├─ output.md  
+├─ small_plates.md  
 ├─ README.md  
 └─ CLAUDE.md
 

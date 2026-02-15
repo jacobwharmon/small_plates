@@ -9,9 +9,12 @@ Quick start
 Run locally:
 
 ```bash
-python generate.py --url "<CSV_EXPORT_URL>" --out output.md
+python generate.py --url "<CSV_EXPORT_URL>" --out small_plates.md
 ```
 
 CI
 
-The repository includes a GitHub Actions workflow that runs daily and on manual dispatch. Put the CSV export URL into the repository secret `CSV_URL`.
+The repository includes a GitHub Actions workflow that runs on schedule and on manual dispatch. Put the CSV export URL into the repository secret `CSV_URL`.
+
+See runs: `gh run list --workflow=generate.yml`
+View a run log: `gh run view <run-id> --log`
