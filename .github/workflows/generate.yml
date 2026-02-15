@@ -4,9 +4,13 @@ name: Generate Markdown from Sheet
 permissions:
   contents: write
 
+concurrency:
+  group: generate-markdown
+  cancel-in-progress: true
+
 on:
   schedule:
-    - cron: '0 6 * * *' # daily at 06:00 UTC
+    - cron: '*/15 * * * *' # every 15 minutes
   workflow_dispatch: {}
 
 jobs:
