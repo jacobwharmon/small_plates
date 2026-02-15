@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import io
 import os
 import sys
 from collections import defaultdict
@@ -43,7 +44,15 @@ def fetch_csv(url: str) -> str:
         raise RuntimeError("requests is required to fetch remote CSV. Add it to dependencies.")
     resp = requests.get(url, timeout=30)
     resp.raise_for_status()
-    return resp.text
+    raw = resp.content
+    # Try common encodings: UTF-8 with BOM, UTF-8, then latin-1 as a fallback
+    for enc in ("utf-8-sig", "utf-8", "latin-1"):
+        try:
+            return raw.decode(enc)
+        except Exception:
+            continue
+    # Last resort: replace invalid chars
+    return raw.decode("utf-8", errors="replace")
 
 
 def parse_timestamp(value: str) -> datetime:
@@ -91,7 +100,9 @@ def map_headers(headers: List[str]) -> Dict[str, int]:
 
 
 def parse_rows(csv_text: str) -> List[Row]:
-    reader = csv.reader(csv_text.splitlines())
+    # Use StringIO to ensure correct newline handling and avoid encoding issues
+    sio = io.StringIO(csv_text)
+    reader = csv.reader(sio)
     rows = list(reader)
     if not rows:
         return []
