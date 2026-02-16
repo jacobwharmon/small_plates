@@ -1,4 +1,5 @@
 # Table of Contents
+- [Body Of Christ](#body-of-christ)
 - [Compassion](#compassion)
 - [Endure To The End](#endure-to-the-end)
 - [Faith](#faith)
@@ -6,8 +7,16 @@
 - [Music](#music)
 - [Relationship With Jesus](#relationship-with-jesus)
 - [Repentance](#repentance)
+- [Scripture Study](#scripture-study)
 - [Temple](#temple)
 - [Time](#time)
+- [Weakness](#weakness)
+
+## Body Of Christ
+- A huge part, maybe aside from the sacrament the entire part of the church, is the bearing, mourning, comforting. We need to invest in the sharing and helping. Thoughts of "I have nothing to offer, no words, no experience" is wrong. Because we take upon ourselves the name of Christ. He will help us help them. The words will come if we try. Our ward family is important and even if we think we bring nothing to the table, the only thing that the table needs is a willing heart<sup>1</sup>
+
+### Body Of Christ Sources
+1) Thoughts 30 June 2024
 
 ## Compassion
 - This parable—like all parables﻿—is not really about laborers or wages any more than the others are about sheep and goats. This is a story about God’s goodness, His patience and forgiveness, and the Atonement of the Lord Jesus Christ. It is a story about generosity and compassion. It is a story about grace. It underscores the thought I heard many years ago that surely the thing God enjoys most about being God is the thrill of being merciful, especially to those who don’t expect it and often feel they don’t deserve it.<sup>1</sup>
@@ -51,6 +60,12 @@
 ### Repentance Sources
 1) Alma 34:31
 
+## Scripture Study
+- We say that the scriptures contain the answers to every question because the scriptures can lead us to every answer. Even though the scriptures [may] contain no words to answer our specific personal question, a prayerful study of the scriptures will help us obtain such answers. This is because scripture study will make us susceptible to the inspiration of the Holy Ghost. The scriptures will help us resolve all of our personal questions because by reading them we invite and qualify ourselves for the inspiration of the Holy Ghost, which will guide us into all truth<sup>1</sup>
+
+### Scripture Study Sources
+1) Dallin H. Oaks, “Studying the Scriptures,” BYU—Hawaii devotional address, Mar. 14, 1986, 18–21, Church History Library, Salt Lake City
+
 ## Temple
 - You are never lost when you can see the temple. The temple will provide direction for you and your family in a world filled with chaos. It is an eternal guidepost which will help you from getting lost in the “mist of darkness.” It is the house of the Lord. Understanding the eternal nature of the temple will draw you to your family; understanding the eternal nature of the family will draw you to the temple.<sup>1</sup>
 
@@ -62,3 +77,10 @@
 
 ### Time Sources
 1) https://www.churchofjesuschrist.org/study/general-conference/2025/10/33barlow?lang=eng
+
+## Weakness
+- Similarly, when the Apostle Paul sought to be healed from the “thorn in the flesh” that buffeted him the Lord declined to heal him. Paul later wrote that the Lord explained, “My grace is sufficient for thee: for my strength is made perfect in weakness”. Paul obediently responded that he would “rather glory in my infirmities, that the power of Christ may rest upon me … for when I am weak, then am I strong”. Some weaknesses will be our companions through our entire mortality to be a reminder to seek the Savior's healing power<sup>1,2</sup>
+
+### Weakness Sources
+1) 2 Corinthians 12:7, 9
+2) https://www.churchofjesuschrist.org/study/general-conference/2006/10/he-heals-the-heavy-laden?lang=eng
