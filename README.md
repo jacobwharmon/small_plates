@@ -18,3 +18,8 @@ The repository includes a GitHub Actions workflow that runs on schedule and on m
 
 See runs: `gh run list --workflow=generate.yml`
 View a run log: `gh run view <run-id> --log`
+
+STATUS
+
+done with Journal/Study
+next is Journal/Church
