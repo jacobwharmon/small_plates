@@ -15,6 +15,7 @@
 - [Scripture Study](#scripture-study)
 - [Temple](#temple)
 - [Time](#time)
+- [Trust](#trust)
 - [Trust In God](#trust-in-god)
 - [Weakness](#weakness)
 
@@ -47,10 +48,13 @@
 ## Humility
 - Humbling themselves before God gave them the power of God with them<sup>1</sup>
 - Humility is not merely the absence of pride. Humility is willingness to trust and follow the Lord. Be thou humble … and the Lord thy God will lead thee by the hand, and give thee answer to thy prayers.<sup>2</sup>
+- Humility is teachableness—an ability to realize that all virtues and abilities are not concentrated in one’s self. . . Humility is never accusing nor contentious. . . Humility is repentant and seeks not to justify its follies. It is forgiving others in the realization that there may be errors of the same kind or worse [that we ourselves commit]<sup>3,4</sup>
 
 ### Humility Sources
 1) 1 Nephi 13:16
 2) https://www.churchofjesuschrist.org/study/general-conference/2023/10/32koch?lang=eng
+3) Spencer W. Kimball, “Humility,” BYU devotional address, 16 January 1963
+4) see also Kimball, “Humility,” Improvement Era, August 1963, 657
 
 ## Judgement
 - Most of the time "righteous judgement" means no judgement<sup>1</sup>
@@ -119,6 +123,12 @@
 
 ### Time Sources
 1) https://www.churchofjesuschrist.org/study/general-conference/2025/10/33barlow?lang=eng
+
+## Trust
+- Hold on to the first article of faith, even if something else is uncertain. And while you wait, wait upon the Lord, which includes trusting in His timing as well as in His promises. And while we wait, we should busy ourselves with service. Again and again, Jesus taught and demonstrated the power of service to others.<sup>1</sup>
+
+### Trust Sources
+1) https://speeches.byu.edu/talks/dallin-h-oaks/coming-closer-to-jesus-christ/
 
 ## Trust In God
 - The Nephites had faith to flee when the Lord told them, or fight when the Lord told them . Trusting that His ways were always the correct ways, and they would prosper if they followed<sup>1</sup>
