@@ -8,6 +8,7 @@
 - [Knowledge](#knowledge)
 - [Living Water](#living-water)
 - [Love](#love)
+- [Mortality](#mortality)
 - [Music](#music)
 - [Peace](#peace)
 - [Relationship With Jesus](#relationship-with-jesus)
@@ -79,6 +80,12 @@
 
 ### Love Sources
 1) https://www.churchofjesuschrist.org/study/ensign/2020/09/moving-closer-loving-as-the-savior-did?lang=eng
+
+## Mortality
+- There are some Christlike attributes that were not possible to learn or attain in Heaven. Patience. Compassion. Forgiveness. Trust. All of these require the challenges, mess, and difficulty of mortality to stretch and choose to become like Jesus.<sup>1</sup>
+
+### Mortality Sources
+1) Dustin Hansen, Sacrament Meeting 22 February 2026
 
 ## Music
 - Thinking about the hymns that make me want to weep happy tears. It's not because of the rhetoric or excellent composition by these trained songwriters. It's because of the testimony in them of truth and joy of Jesus Christ. I need to remember more often that the spirit is what determines the efficacy of testimony, not skill or grandeur.<sup>1</sup>
