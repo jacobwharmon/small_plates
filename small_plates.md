@@ -15,6 +15,7 @@
 - [Repentance](#repentance)
 - [Scripture Study](#scripture-study)
 - [Temple](#temple)
+- [Testimony](#testimony)
 - [Time](#time)
 - [Trust](#trust)
 - [Trust In God](#trust-in-god)
@@ -124,6 +125,12 @@
 
 ### Temple Sources
 1) https://www.churchofjesuschrist.org/study/general-conference/2009/04/sacred-homes-sacred-temples?lang=eng
+
+## Testimony
+- Studying D&C in 2025 and OT in 2026 there’s a lot of complexity and information on, arguably, niche topics that’s sometimes it’s hard to see the forest from the trees. Spending time in the Friend magazine and Children’s Songbook at bedtime with Jack and Maisie is an amazing reprieve and reminder that the gospel of Jesus Christ is simple. We have constant access to God’s love. We should try to be like Jesus. We should be kind to others. Our families can be together forever.<sup>1</sup>
+
+### Testimony Sources
+1) Thoughts in sacrament meeting 1 March 2026
 
 ## Time
 - We show our love to the Lord when we put Him above “these,” and “these” can be anyone, any activity, or anything that displaces Him from being the most important influence in our lives. There will never be enough time in a day, a week, a month, or a year to get done all we want or need to accomplish. Part of the test of mortality is to use the precious resource of time for what is most important for our eternal good and to let go of those things that are less important.<sup>1</sup>
