@@ -43,9 +43,11 @@
 
 ## Faith
 - Moroni's (almost) final words are spent testifying that miracles are real and exist as a function of personal faith. This is spoken in the context of loneliness and surrounded by sorrow and wickedness. But he knows that faith in God can turn it all around—even his dire scene can be entirely corrected and perfected by God through faith<sup>1</sup>
+- Faith is sometimes resisting the natural man’s need to see your whole life laid out in front of you. Listening to this BYU devotional today really rapped my knuckles, knowing that I have been putting disproportionate weight on career worries and efforts to calm those worries that I 1) have been wasting precious “cognitive free time” that could have been used to find creative ways to bring my family joy, and 2) have been wasting precious “physical free time” that could have been used in the scriptures or bringing my family joy. I needed that course correction this morning, and I need to I’m move forward with faith, being okay with not knowing where that leads.<sup>2</sup>
 
 ### Faith Sources
 1) Mormon 9:20 (15-21)
+2) https://speeches.byu.edu/talks/quentin-l-cook/faith-in-jesus-christ-in-the-information-age/
 
 ## Humility
 - Humbling themselves before God gave them the power of God with them<sup>1</sup>
