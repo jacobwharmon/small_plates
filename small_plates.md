@@ -10,6 +10,7 @@
 - [Love](#love)
 - [Mortality](#mortality)
 - [Music](#music)
+- [Old Testament](#old-testament)
 - [Peace](#peace)
 - [Relationship With Jesus](#relationship-with-jesus)
 - [Repentance](#repentance)
@@ -95,6 +96,12 @@
 
 ### Music Sources
 1) Hymn 220 Lord, I Would Follow Thee
+
+## Old Testament
+- 1 Samuel 1 shows the faith of Hannah despite wickedness, both breaking of commandments and misuse of priesthood authority, and how the Lord is able to bless her during that with peace, and eventual rescue and improvement of her state through the righteousness of her example she passes on to her son Samuel who replaces Eli as the priest of the temple.<sup>1</sup>
+
+### Old Testament Sources
+1) David Moberly, Sacrament Meeting 8 Mar 2026
 
 ## Peace
 - Liberty Jail demonstrates that adversity is not evidence of the Lord’s disfavor nor a withdrawal of His blessings. "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you." Peace in the world is not promised or assured until the Second Coming of Jesus Christ. However, personal peace can be achieved despite the anger, contention, and division that blight and corrupt our world today. It has never been more important to seek personal peace. DC 59:23 But learn that he who doeth the works of righteousness shall receive his reward, even peace in this world<sup>1</sup>
