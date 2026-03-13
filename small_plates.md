@@ -1,4 +1,5 @@
 # Table of Contents
+- [Blessings](#blessings)
 - [Body Of Christ](#body-of-christ)
 - [Compassion](#compassion)
 - [Endure To The End](#endure-to-the-end)
@@ -21,6 +22,12 @@
 - [Trust](#trust)
 - [Trust In God](#trust-in-god)
 - [Weakness](#weakness)
+
+## Blessings
+- The Book of Mormon promises frequently that if we keep the commandments we will prosper, and opposite of prosperity was not poverty—it was being cut off from the presence of the Lord. God’s blessings of prosperity can be temporal but we need to remember that the key blessing is having peace and the Holy Ghost.<sup>1</sup>
+
+### Blessings Sources
+1) Christofferson Oct 2025 General Conference
 
 ## Body Of Christ
 - A huge part, maybe aside from the sacrament the entire part of the church, is the bearing, mourning, comforting. We need to invest in the sharing and helping. Thoughts of "I have nothing to offer, no words, no experience" is wrong. Because we take upon ourselves the name of Christ. He will help us help them. The words will come if we try. Our ward family is important and even if we think we bring nothing to the table, the only thing that the table needs is a willing heart<sup>1</sup>
