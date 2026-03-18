@@ -70,9 +70,12 @@
 
 ## Judgement
 - Most of the time "righteous judgement" means no judgement<sup>1</sup>
+- “Gratefully, the scriptures also teach that Jesus Christ, He who suffered for our sins, who is our Advocate with the Father, who calls us His friends, who loves us unto the end, He ultimately will be our judge. One of the often overlooked blessings of the Atonement of Jesus Christ is that “the Father … hath committed all judgment unto the Son“<sup>2,3</sup>
 
 ### Judgement Sources
 1) Thoughts 28 Jan 2024
+2) John 5:22, 26-27
+3) Allen D Haynie October 2015 General Conference
 
 ## Knowledge
 - "Add to virtue knowledge" — why knowledge on our way to Charity? The more you know about God, the more you understand His expectations & promises and the easier it is to feel his charity for us. The more you know about others, the easier it is to give them that patience & charity that we ought.<sup>1</sup>
