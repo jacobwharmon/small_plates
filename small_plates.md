@@ -13,6 +13,7 @@
 - [Music](#music)
 - [Old Testament](#old-testament)
 - [Peace](#peace)
+- [Prayer](#prayer)
 - [Relationship With Jesus](#relationship-with-jesus)
 - [Repentance](#repentance)
 - [Scripture Study](#scripture-study)
@@ -118,6 +119,12 @@
 
 ### Peace Sources
 1) https://www.churchofjesuschrist.org/study/general-conference/2021/10/46cook?lang=eng
+
+## Prayer
+- There is nothing wrong with the increased frequency or fervency of prayer in times of trial, turmoil, sickness, or need. God rejoices that we turn to Him in our weakness. He knows what we need and can provide for us.<sup>1</sup>
+
+### Prayer Sources
+1) Henry B Eyring, April 2026 General Conference
 
 ## Relationship With Jesus
 - You may have full faith in the Jesus that performed the mighty atonement years ago but does Christ ever seem to you too distant, too inaccessible, and too impersonal to ever move from being a picture on the wall or a statue or a name in the scriptures to becoming your personal, practical, and daily Savior?<sup>1</sup>
