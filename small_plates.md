@@ -16,6 +16,7 @@
 - [Prayer](#prayer)
 - [Relationship With Jesus](#relationship-with-jesus)
 - [Repentance](#repentance)
+- [Sacrament](#sacrament)
 - [Scripture Study](#scripture-study)
 - [Temple](#temple)
 - [Testimony](#testimony)
@@ -137,6 +138,12 @@
 
 ### Repentance Sources
 1) Alma 34:31
+
+## Sacrament
+- Thinking of the Last Supper where Jesus instituted the sacrament, it is Jesus promising us that He will not leave us alone. We can access Him in the world—have His spirit to always be with us.<sup>1</sup>
+
+### Sacrament Sources
+1) Pedro X Larreal, April 2026 General Conference
 
 ## Scripture Study
 - We say that the scriptures contain the answers to every question because the scriptures can lead us to every answer. Even though the scriptures [may] contain no words to answer our specific personal question, a prayerful study of the scriptures will help us obtain such answers. This is because scripture study will make us susceptible to the inspiration of the Holy Ghost. The scriptures will help us resolve all of our personal questions because by reading them we invite and qualify ourselves for the inspiration of the Holy Ghost, which will guide us into all truth<sup>1</sup>
