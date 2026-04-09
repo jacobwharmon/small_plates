@@ -12,6 +12,7 @@
 - [Mortality](#mortality)
 - [Music](#music)
 - [Old Testament](#old-testament)
+- [Patience](#patience)
 - [Peace](#peace)
 - [Prayer](#prayer)
 - [Relationship With Jesus](#relationship-with-jesus)
@@ -114,6 +115,12 @@
 
 ### Old Testament Sources
 1) David Moberly, Sacrament Meeting 8 Mar 2026
+
+## Patience
+- The path of discipleship often resembles climbing a mountain. The shortest path to the top is not always the most appropriate and often not the safest either. Thus, we must choose the firm and safe path, even if it is sometimes the longest and most demanding one. Jesus Christ and His restored gospel constitute that safe path that leads us to the true summit.<sup>1</sup>
+
+### Patience Sources
+1) Eduardo F Ortega, April 2026 General Conference
 
 ## Peace
 - Liberty Jail demonstrates that adversity is not evidence of the Lord’s disfavor nor a withdrawal of His blessings. "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you." Peace in the world is not promised or assured until the Second Coming of Jesus Christ. However, personal peace can be achieved despite the anger, contention, and division that blight and corrupt our world today. It has never been more important to seek personal peace. DC 59:23 But learn that he who doeth the works of righteousness shall receive his reward, even peace in this world<sup>1</sup>
