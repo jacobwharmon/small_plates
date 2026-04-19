@@ -9,6 +9,7 @@
 - [Knowledge](#knowledge)
 - [Living Water](#living-water)
 - [Love](#love)
+- [Love Of God](#love-of-god)
 - [Mortality](#mortality)
 - [Music](#music)
 - [Old Testament](#old-testament)
@@ -97,6 +98,12 @@
 
 ### Love Sources
 1) https://www.churchofjesuschrist.org/study/ensign/2020/09/moving-closer-loving-as-the-savior-did?lang=eng
+
+## Love Of God
+- “I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the Lord your God.” Reading between the lines, the people weren’t necessarily praying in faith to solve their lack of food problem—they were *murmuring*. But God loves us so much and recognizes our hardship (after all they did already pass through the Red Sea and into the wilderness in faith) that He decided to provide them with peace and nourishment that they didn’t even ask for. He is a loving parent.<sup>1</sup>
+
+### Love Of God Sources
+1) Exodus 16:12
 
 ## Mortality
 - There are some Christlike attributes that were not possible to learn or attain in Heaven. Patience. Compassion. Forgiveness. Trust. All of these require the challenges, mess, and difficulty of mortality to stretch and choose to become like Jesus.<sup>1</sup>
