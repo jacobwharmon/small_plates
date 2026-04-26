@@ -193,9 +193,13 @@
 
 ## Trust In God
 - The Nephites had faith to flee when the Lord told them, or fight when the Lord told them . Trusting that His ways were always the correct ways, and they would prosper if they followed<sup>1</sup>
+- Peter toils all night (Luke 5) and all day (John 21) and returns with empty nets. Exhausted and downtrodden, Jesus instructs him, Peter obeys, a miracle occurs. Similarly, when we are empty-netted, exhausted, and downtrodden, if we reach out to the Savior and follow His command then the miracles will come.<sup>2,3,4</sup>
 
 ### Trust In God Sources
 1) Alma 48:15-16
+2) Sister Stapel 26 Apr 2026
+3) Luke 5
+4) John 21
 
 ## Weakness
 - Similarly, when the Apostle Paul sought to be healed from the “thorn in the flesh” that buffeted him the Lord declined to heal him. Paul later wrote that the Lord explained, “My grace is sufficient for thee: for my strength is made perfect in weakness”. Paul obediently responded that he would “rather glory in my infirmities, that the power of Christ may rest upon me … for when I am weak, then am I strong”. Some weaknesses will be our companions through our entire mortality to be a reminder to seek the Savior's healing power<sup>1,2</sup>
