@@ -95,9 +95,11 @@
 
 ## Love
 - You may have heard the saying “Love the sinner; hate the sin.” Do we spend enough time on the first half of that invitation? Jesus tells us to “love one another” (John 13:34) and forgive “seventy times seven” (see Matthew 18:22). Instead of spending time trying to identify and hate another person’s sin, we can use that energy to nourish relationships with our fellow brothers and sisters. We like to use the saying “Love the sinner; invite them to dinner!”<sup>1</sup>
+- Regarding the first and second great commandments, I sometimes think that I’m on my own for the first. Like somehow it would be some kind of recursive logic for God to help me keep the first. That is incorrect. He enhances our small actions to love Him and come closer to Him. He fills us with strong feelings of peace and rest when we keep that commandment.<sup>2</sup>
 
 ### Love Sources
 1) https://www.churchofjesuschrist.org/study/ensign/2020/09/moving-closer-loving-as-the-savior-did?lang=eng
+2) Thoughts in Sacrament Meeting
 
 ## Love Of God
 - “I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the Lord your God.” Reading between the lines, the people weren’t necessarily praying in faith to solve their lack of food problem—they were *murmuring*. But God loves us so much and recognizes our hardship (after all they did already pass through the Red Sea and into the wilderness in faith) that He decided to provide them with peace and nourishment that they didn’t even ask for. He is a loving parent.<sup>1</sup>
