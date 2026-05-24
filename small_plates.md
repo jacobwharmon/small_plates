@@ -1,4 +1,5 @@
 # Table of Contents
+- [Atonement](#atonement)
 - [Blessings](#blessings)
 - [Body Of Christ](#body-of-christ)
 - [Compassion](#compassion)
@@ -26,6 +27,12 @@
 - [Trust](#trust)
 - [Trust In God](#trust-in-god)
 - [Weakness](#weakness)
+
+## Atonement
+- When we experience a hurt or commit a sin,  we can let the Savior in by remembering that because of Him every pain, sin, sickness, hardship can be healed. We will be resurrected. All wrongs will be made right. All tears will be dried.<sup>1</sup>
+
+### Atonement Sources
+1) EQ New Brighton Ward
 
 ## Blessings
 - The Book of Mormon promises frequently that if we keep the commandments we will prosper, and opposite of prosperity was not poverty—it was being cut off from the presence of the Lord. God’s blessings of prosperity can be temporal but we need to remember that the key blessing is having peace and the Holy Ghost.<sup>1</sup>
