@@ -21,6 +21,7 @@
 - [Repentance](#repentance)
 - [Sacrament](#sacrament)
 - [Scripture Study](#scripture-study)
+- [Temperance](#temperance)
 - [Temple](#temple)
 - [Testimony](#testimony)
 - [Time](#time)
@@ -175,6 +176,12 @@
 ### Scripture Study Sources
 1) Dallin H. Oaks, “Studying the Scriptures,” BYU—Hawaii devotional address, Mar. 14, 1986, 18–21, Church History Library, Salt Lake City
 2) Boyd K. Packer: A Watchman on the Tower
+
+## Temperance
+- It takes the companionship of the holy ghost to hold a tongue, say sorry, endure a bit of discomfort or imperfection. It really goes against human (especially mine, a human) nature. I have seen the benefits, though, almost immediately. I always want to do it again and again and fail most often when A) tired, B) selfish, or C) lost eternal perspective, where the spirit can aide B & C.<sup>1</sup>
+
+### Temperance Sources
+1) Thoughts
 
 ## Temple
 - You are never lost when you can see the temple. The temple will provide direction for you and your family in a world filled with chaos. It is an eternal guidepost which will help you from getting lost in the “mist of darkness.” It is the house of the Lord. Understanding the eternal nature of the temple will draw you to your family; understanding the eternal nature of the family will draw you to the temple.<sup>1</sup>
