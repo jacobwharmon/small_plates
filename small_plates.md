@@ -2,6 +2,7 @@
 - [Atonement](#atonement)
 - [Blessings](#blessings)
 - [Body Of Christ](#body-of-christ)
+- [Christ’S Love](#christ’s-love)
 - [Compassion](#compassion)
 - [Endure To The End](#endure-to-the-end)
 - [Faith](#faith)
@@ -46,6 +47,12 @@
 
 ### Body Of Christ Sources
 1) Thoughts 30 June 2024
+
+## Christ’S Love
+- Noteworthy that when Christ was confronted about his dining with sinners and publicans, he responded by referring to them as sick—not as sinners.<sup>1</sup>
+
+### Christ’S Love Sources
+1) Matthew 9:10-12
 
 ## Compassion
 - This parable—like all parables﻿—is not really about laborers or wages any more than the others are about sheep and goats. This is a story about God’s goodness, His patience and forgiveness, and the Atonement of the Lord Jesus Christ. It is a story about generosity and compassion. It is a story about grace. It underscores the thought I heard many years ago that surely the thing God enjoys most about being God is the thrill of being merciful, especially to those who don’t expect it and often feel they don’t deserve it.<sup>1</sup>
