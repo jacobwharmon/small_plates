@@ -1,5 +1,6 @@
 # Table of Contents
 - [Atonement](#atonement)
+- [Becoming As A Child](#becoming-as-a-child)
 - [Blessings](#blessings)
 - [Body Of Christ](#body-of-christ)
 - [Christ’S Love](#christ’s-love)
@@ -35,6 +36,14 @@
 
 ### Atonement Sources
 1) EQ New Brighton Ward
+
+## Becoming As A Child
+- About as often as I find myself wishing my kids were more grown up, more reverent, more whatever—I come across scripture of Jesus praising and exalting children for their purity and softness of heart. I remember that earthly things are driving that incorrect wish, not heavenly things. I remember I need to look more to my children as an example of their virtue and purity of heart.<sup>1,2,3</sup>
+
+### Becoming As A Child Sources
+1) Psalms 127:3–5
+2) Matt 19:14
+3) 3 Nephi 17:23-24
 
 ## Blessings
 - The Book of Mormon promises frequently that if we keep the commandments we will prosper, and opposite of prosperity was not poverty—it was being cut off from the presence of the Lord. God’s blessings of prosperity can be temporal but we need to remember that the key blessing is having peace and the Holy Ghost.<sup>1</sup>
@@ -198,9 +207,11 @@
 
 ## Testimony
 - Studying D&C in 2025 and OT in 2026 there’s a lot of complexity and information on, arguably, niche topics that’s sometimes it’s hard to see the forest from the trees. Spending time in the Friend magazine and Children’s Songbook at bedtime with Jack and Maisie is an amazing reprieve and reminder that the gospel of Jesus Christ is simple. We have constant access to God’s love. We should try to be like Jesus. We should be kind to others. Our families can be together forever.<sup>1</sup>
+- When going through difficult things for the first time, it typically feels scary and unbearable. In the rear view, I look back at difficult things as resources for faith that I hope I, Hannah, my kids, and others can use to bolster faith in their trials. With that context, I should read the scriptures and family history with that lens—true human stories of heavenly help that I can use.<sup>2</sup>
 
 ### Testimony Sources
 1) Thoughts in sacrament meeting 1 March 2026
+2) Thoughts in Sunday School
 
 ## Time
 - We show our love to the Lord when we put Him above “these,” and “these” can be anyone, any activity, or anything that displaces Him from being the most important influence in our lives. There will never be enough time in a day, a week, a month, or a year to get done all we want or need to accomplish. Part of the test of mortality is to use the precious resource of time for what is most important for our eternal good and to let go of those things that are less important.<sup>1</sup>
@@ -217,12 +228,15 @@
 ## Trust In God
 - The Nephites had faith to flee when the Lord told them, or fight when the Lord told them . Trusting that His ways were always the correct ways, and they would prosper if they followed<sup>1</sup>
 - Peter toils all night (Luke 5) and all day (John 21) and returns with empty nets. Exhausted and downtrodden, Jesus instructs him, Peter obeys, a miracle occurs. Similarly, when we are empty-netted, exhausted, and downtrodden, if we reach out to the Savior and follow His command then the miracles will come.<sup>2,3,4</sup>
+- Consider the sheep of His fold; How they follow where He leads; Though the path may wind across the mountains; He knows the meadows where they feed.<sup>5,6</sup>
 
 ### Trust In God Sources
 1) Alma 48:15-16
 2) Sister Stapel 26 Apr 2026
 3) Luke 5
 4) John 21
+5) Consider the lilies
+6) Edward B Rowe April 2026 General Conference
 
 ## Weakness
 - Similarly, when the Apostle Paul sought to be healed from the “thorn in the flesh” that buffeted him the Lord declined to heal him. Paul later wrote that the Lord explained, “My grace is sufficient for thee: for my strength is made perfect in weakness”. Paul obediently responded that he would “rather glory in my infirmities, that the power of Christ may rest upon me … for when I am weak, then am I strong”. Some weaknesses will be our companions through our entire mortality to be a reminder to seek the Savior's healing power<sup>1,2</sup>
