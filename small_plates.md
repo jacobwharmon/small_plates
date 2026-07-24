@@ -6,6 +6,7 @@
 - [Christ’S Love](#christ’s-love)
 - [Compassion](#compassion)
 - [Endure To The End](#endure-to-the-end)
+- [Enduring To The End](#enduring-to-the-end)
 - [Faith](#faith)
 - [Humility](#humility)
 - [Judgement](#judgement)
@@ -76,6 +77,14 @@
 ### Endure To The End Sources
 1) https://www.churchofjesuschrist.org/study/new-era/2020/08/life-balance-a-moving-target?lang=eng
 2) Alma 34 & 35 (and many others)
+
+## Enduring To The End
+- ““Enduring to the end” is not really […] as though we complete the first four elements [of the Gospel] and then hunker down, grit our teeth, and wait to die.”
+The end of the trial is not the end referred to in the fifth principle of the Gospel of Jesus Christ. The end is our faithful reunion with our Heavenly parents, our elder brother Jesus, and our loved ones—having used the trials of our mortality to become who we were meant to become.<sup>1,2</sup>
+
+### Enduring To The End Sources
+1) https://speeches.byu.edu/talks/jeffrey-s-bednar/to-those-enduring-trials-with-no-end/
+2) https://www.churchofjesuschrist.org/study/general-conference/2024/04/43renlund?lang=eng
 
 ## Faith
 - Moroni's (almost) final words are spent testifying that miracles are real and exist as a function of personal faith. This is spoken in the context of loneliness and surrounded by sorrow and wickedness. But he knows that faith in God can turn it all around—even his dire scene can be entirely corrected and perfected by God through faith<sup>1</sup>
