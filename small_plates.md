@@ -24,6 +24,7 @@
 - [Repentance](#repentance)
 - [Sacrament](#sacrament)
 - [Scripture Study](#scripture-study)
+- [Small And Simple Things](#small-and-simple-things)
 - [Temperance](#temperance)
 - [Temple](#temple)
 - [Testimony](#testimony)
@@ -203,6 +204,13 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 ### Scripture Study Sources
 1) Dallin H. Oaks, “Studying the Scriptures,” BYU—Hawaii devotional address, Mar. 14, 1986, 18–21, Church History Library, Salt Lake City
 2) Boyd K. Packer: A Watchman on the Tower
+
+## Small And Simple Things
+- The Lord “will help us as we decide from day to day on the allocation of our time and talent. We will move faster if we hurry less. We will make more real progress if we focus on the fundamentals.” “No one can do everything, nor should you try. … make … your personal prayers the way you learn where the Lord needs you to be that day. Over time, you will be astonished by how He will guide you to be exactly where you can lead, guide, and walk beside someone who needs you“<sup>1,2</sup>
+
+### Small And Simple Things Sources
+1) Spencer W Kimball, May 1979 Ensign
+2) Russell M Nelson, 2024 Relief Society Devotional
 
 ## Temperance
 - It takes the companionship of the holy ghost to hold a tongue, say sorry, endure a bit of discomfort or imperfection. It really goes against human (especially mine, a human) nature. I have seen the benefits, though, almost immediately. I always want to do it again and again and fail most often when A) tired, B) selfish, or C) lost eternal perspective, where the spirit can aide B & C.<sup>1</sup>
