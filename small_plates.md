@@ -17,6 +17,7 @@
 - [Mortality](#mortality)
 - [Music](#music)
 - [Old Testament](#old-testament)
+- [Parenthood](#parenthood)
 - [Patience](#patience)
 - [Peace](#peace)
 - [Prayer](#prayer)
@@ -158,6 +159,17 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 
 ### Old Testament Sources
 1) David Moberly, Sacrament Meeting 8 Mar 2026
+
+## Parenthood
+- If you want your children to know that “Jesus Christ is [their] strength,” let them see that He is your strength. Let them see you repent and “rejoice in the gift to do better and be better.”
+If you want your children to “walk in God’s light,” let them see that you “seek that which uplifts, inspires, and invites the Spirit” as you make choices about media. Let your children find you immersed in the scriptures or on bended knee in silent prayer.
+If you want your children to “treat everyone as a child of God,” let them see that you “reach out to those who may feel lonely, isolated, or helpless.”
+If you want your children to know that “ordinances and covenants give [them] access to God’s blessings,” let them see that you “treat the sacrament like a sacred gift” and “go to the temple as often as you can.”
+If you want your children to feel “blessed by priesthood keys and authority,” let them see that you “sustain those who God has called to serve.”
+If you want your children to know that their “body is sacred,” let them see that your reverence for the gift of a physical body guides “your choices about what to do with your body and how to care for it.”<sup>1</sup>
+
+### Parenthood Sources
+1) https://www.churchofjesuschrist.org/study/liahona/2026/10/06-your-children-see-you-do-you-see-them?lang=eng
 
 ## Patience
 - The path of discipleship often resembles climbing a mountain. The shortest path to the top is not always the most appropriate and often not the safest either. Thus, we must choose the firm and safe path, even if it is sometimes the longest and most demanding one. Jesus Christ and His restored gospel constitute that safe path that leads us to the true summit.<sup>1</sup>
