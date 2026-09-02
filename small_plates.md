@@ -100,12 +100,20 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 - Humbling themselves before God gave them the power of God with them<sup>1</sup>
 - Humility is not merely the absence of pride. Humility is willingness to trust and follow the Lord. Be thou humble … and the Lord thy God will lead thee by the hand, and give thee answer to thy prayers.<sup>2</sup>
 - Humility is teachableness—an ability to realize that all virtues and abilities are not concentrated in one’s self. . . Humility is never accusing nor contentious. . . Humility is repentant and seeks not to justify its follies. It is forgiving others in the realization that there may be errors of the same kind or worse [that we ourselves commit]<sup>3,4</sup>
+- Looking specifically at the usage of “lowly” to characterize humility, Jesus demonstrated  it descending below all—a servant, choosing a donkey over a chariot, a perfect being taking *our* sins. 
+
+Setting the example for us, He promises to the lowly: they will find rest, blessed are they, He giveth grace. Though the Lord be high, yet hath he respect unto the lowly.<sup>5,6,7,8,9</sup>
 
 ### Humility Sources
 1) 1 Nephi 13:16
 2) https://www.churchofjesuschrist.org/study/general-conference/2023/10/32koch?lang=eng
 3) Spencer W. Kimball, “Humility,” BYU devotional address, 16 January 1963
 4) see also Kimball, “Humility,” Improvement Era, August 1963, 657
+5) Matt 11:29
+6) Alma 37:34
+7) Alma 32:8
+8) Psalm 138:6
+9) Proverbs 3:34
 
 ## Judgement
 - Most of the time "righteous judgement" means no judgement<sup>1</sup>
