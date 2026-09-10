@@ -8,6 +8,7 @@
 - [Endure To The End](#endure-to-the-end)
 - [Enduring To The End](#enduring-to-the-end)
 - [Faith](#faith)
+- [Heavenly Father](#heavenly-father)
 - [Humility](#humility)
 - [Judgement](#judgement)
 - [Knowledge](#knowledge)
@@ -95,6 +96,12 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 ### Faith Sources
 1) Mormon 9:20 (15-21)
 2) https://speeches.byu.edu/talks/quentin-l-cook/faith-in-jesus-christ-in-the-information-age/
+
+## Heavenly Father
+- God’s commandments, promptings, nudges, corrections are not to restrict us—they are evidence of his INVESTMENT in us.<sup>1</sup>
+
+### Heavenly Father Sources
+1) Proverbs 3:5-6, 11-12
 
 ## Humility
 - Humbling themselves before God gave them the power of God with them<sup>1</sup>
