@@ -210,9 +210,11 @@ If you want your children to know that their “body is sacred,” let them see 
 
 ## Repentance
 - The moment we stop hardening our hearts and repent, it becomes our "day of salvation" and "immediately shall the great plan of redemption be brought about unto you"<sup>1</sup>
+- Faith in Jesus Christ comes first, but Repentance coming next is 1) not a disjoint step from faith and 2) not a step done independently by us. We don’t load up on enough faith to repent on our own. We use our faith and our desire to repent to let Jesus change us. We have faith in the process of change He has for us. We have faith that it will work in His time and with His strength supporting us the whole time.<sup>2</sup>
 
 ### Repentance Sources
 1) Alma 34:31
+2) Thoughts 13 Sep 2026
 
 ## Sacrament
 - Thinking of the Last Supper where Jesus instituted the sacrament, it is Jesus promising us that He will not leave us alone. We can access Him in the world—have His spirit to always be with us.<sup>1</sup>
