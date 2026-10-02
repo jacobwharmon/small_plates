@@ -17,6 +17,7 @@
 - [Love Of God](#love-of-god)
 - [Mortality](#mortality)
 - [Music](#music)
+- [Obedience](#obedience)
 - [Old Testament](#old-testament)
 - [Parenthood](#parenthood)
 - [Patience](#patience)
@@ -166,6 +167,12 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 
 ### Music Sources
 1) Hymn 220 Lord, I Would Follow Thee
+
+## Obedience
+- The more we follow in Jesus’ footsteps the more we trust that He’s leading us somewhere good. The terrain being unfamiliar and the destination being unknown no longer phases us because He has been so good to us every step. We don’t know “where the path leads” in the sense of our job, our health, our geography, our difficulties, but we do know the path will lead to happiness if we stay right by Jesus.<sup>1</sup>
+
+### Obedience Sources
+1) Edward B. Rowe April 2026 General Conference
 
 ## Old Testament
 - 1 Samuel 1 shows the faith of Hannah despite wickedness, both breaking of commandments and misuse of priesthood authority, and how the Lord is able to bless her during that with peace, and eventual rescue and improvement of her state through the righteousness of her example she passes on to her son Samuel who replaces Eli as the priest of the temple.<sup>1</sup>
