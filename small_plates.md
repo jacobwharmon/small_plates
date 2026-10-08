@@ -11,6 +11,7 @@
 - [Heavenly Father](#heavenly-father)
 - [Humility](#humility)
 - [Judgement](#judgement)
+- [Kindness](#kindness)
 - [Knowledge](#knowledge)
 - [Living Water](#living-water)
 - [Love](#love)
@@ -129,6 +130,12 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 1) Thoughts 28 Jan 2024
 2) John 5:22, 26-27
 3) Allen D Haynie October 2015 General Conference
+
+## Kindness
+- Loving God and loving our neighbor as ourselves is “[very nearly] the kingdom of God” because it makes God so happy to see His children treating each other as His children—a glimpse of what the kingdom of God will be like.<sup>1</sup>
+
+### Kindness Sources
+1) Mark 12:33-34
 
 ## Knowledge
 - "Add to virtue knowledge" — why knowledge on our way to Charity? The more you know about God, the more you understand His expectations & promises and the easier it is to feel his charity for us. The more you know about others, the easier it is to give them that patience & charity that we ought.<sup>1</sup>
