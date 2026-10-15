@@ -8,6 +8,7 @@
 - [Endure To The End](#endure-to-the-end)
 - [Enduring To The End](#enduring-to-the-end)
 - [Faith](#faith)
+- [Family Of God](#family-of-god)
 - [Heavenly Father](#heavenly-father)
 - [Humility](#humility)
 - [Judgement](#judgement)
@@ -98,6 +99,13 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 ### Faith Sources
 1) Mormon 9:20 (15-21)
 2) https://speeches.byu.edu/talks/quentin-l-cook/faith-in-jesus-christ-in-the-information-age/
+
+## Family Of God
+- Read in the Friend tonight with Jack a story citing Jesus healing Malchus’ ear, and yesterday read of the Anti-Nephi-Lehi’s burying their weapons rather than shedding the blood of their brethren. Satan is the enemy. Everyone else is our brother or sister and deserves our love, forgiveness, and kindness.<sup>1,2</sup>
+
+### Family Of God Sources
+1) Matthew 26:51-52
+2) Alma 24
 
 ## Heavenly Father
 - God’s commandments, promptings, nudges, corrections are not to restrict us—they are evidence of his INVESTMENT in us.<sup>1</sup>
