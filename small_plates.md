@@ -9,6 +9,7 @@
 - [Enduring To The End](#enduring-to-the-end)
 - [Faith](#faith)
 - [Family Of God](#family-of-god)
+- [Fasting](#fasting)
 - [Heavenly Father](#heavenly-father)
 - [Humility](#humility)
 - [Judgement](#judgement)
@@ -106,6 +107,12 @@ The end of the trial is not the end referred to in the fifth principle of the Go
 ### Family Of God Sources
 1) Matthew 26:51-52
 2) Alma 24
+
+## Fasting
+- Fasting becomes an expression of our desire to draw near to Him, communicate the true desires of our hearts, and understand His will for us. It reminds us of our complete dependence upon the Lord.<sup>1</sup>
+
+### Fasting Sources
+1) Ulisses Soares Oct 2026 General Conference
 
 ## Heavenly Father
 - God’s commandments, promptings, nudges, corrections are not to restrict us—they are evidence of his INVESTMENT in us.<sup>1</sup>
