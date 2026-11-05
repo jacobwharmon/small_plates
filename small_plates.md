@@ -209,9 +209,13 @@ If you want your children to “treat everyone as a child of God,” let them se
 If you want your children to know that “ordinances and covenants give [them] access to God’s blessings,” let them see that you “treat the sacrament like a sacred gift” and “go to the temple as often as you can.”
 If you want your children to feel “blessed by priesthood keys and authority,” let them see that you “sustain those who God has called to serve.”
 If you want your children to know that their “body is sacred,” let them see that your reverence for the gift of a physical body guides “your choices about what to do with your body and how to care for it.”<sup>1</sup>
+- The greatest job that any [of us] will ever do will be in nurturing and teaching and living and encouraging and rearing [our] children in righteousness and truth. There is no other thing that will compare with that, regardless of what [we do]. 
+
+I also loved and interview (that I can’t seem to find) of Neil L Andersen where in repeated questions about what his greatest moment, accomplishment, possession, joy, etc was he always answered with “my sealing to my wife” and “my wife and children”.<sup>2</sup>
 
 ### Parenthood Sources
 1) https://www.churchofjesuschrist.org/study/liahona/2026/10/06-your-children-see-you-do-you-see-them?lang=eng
+2) https://www.churchofjesuschrist.org/study/general-conference/2018/10/parents-and-children?lang=eng
 
 ## Patience
 - The path of discipleship often resembles climbing a mountain. The shortest path to the top is not always the most appropriate and often not the safest either. Thus, we must choose the firm and safe path, even if it is sometimes the longest and most demanding one. Jesus Christ and His restored gospel constitute that safe path that leads us to the true summit.<sup>1</sup>
